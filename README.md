@@ -1,4 +1,4 @@
-# CSE 5524 Project
+# Examine SIFT Descriptor on Cat Image Matching
 
 ## Team member:
   
