@@ -1,4 +1,5 @@
 # Examine SIFT Descriptor on Cat Image Matching
+[![HitCount](http://hits.dwyl.com/Jcl9/SIFT-Cat-Image-Matching.svg)](http://hits.dwyl.com/Jcl9/SIFT-Cat-Image-Matching)
 
 ## Team member:
   
